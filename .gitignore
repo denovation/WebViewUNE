@@ -1,0 +1,12 @@
+Library
+Temp
+*.csproj
+*.sln
+*.pidb
+*.userprefs
+
+# for Mac OS
+.DS_Store
+
+
+
